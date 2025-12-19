@@ -1,12 +1,12 @@
-# PAC3: Visionando el futuro con las gafas de Manovich 
+# PAC3:Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
 Autor: Lia Costa
 
 
 Fecha: 19/12/2025
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
+![Tiktok-vs-Reels](https://github.com/user-attachments/assets/83b754b5-2c3a-4629-ae2a-c514d3dc7fe5)
 
 
 ## Introducció
