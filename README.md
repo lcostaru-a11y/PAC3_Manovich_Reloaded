@@ -43,6 +43,9 @@ Finalment, la FYP influeix directament en la producció cultural. Els creadors a
 Els filtres d’Instagram i la pàgina For You de TikTok exemplifiquen com el programari s’ha convertit en el principal motor de la cultura digital contemporània. A través de la hibridació de mitjans, la transcodificació de dades i la personalització algorítmica, aquestes plataformes no només transformen les formes culturals, sinó també la manera com els usuaris es representen, consumeixen i participen en la cultura digital.
 Tal com anticipava Manovich, el programari ja no acompanya la cultura: la dirigeix
 
+## Metodologia i cultura oberta
+
+Aquest assaig s’ha redactat seguint una filosofia d’escriptura oberta, inspirada en la cultura del programari lliure i els repositoris col·laboratius com GitHub. Igual que en el desenvolupament de programari, el coneixement es construeix a partir de la compartició, reutilització i adaptació de continguts, fomentant una cultura digital basada en el crowdsourcing i la col·laboració.
 
 
 ----
@@ -52,6 +55,11 @@ https://spark.meta.com/learn/
 https://developers.tiktok.com/
 
 
+## Llicència
+
+Aquest treball es publica sota una llicència  
+**Creative Commons Reconeixement – CompartirIgual (CC BY-SA 4.0)**  
+https://creativecommons.org/licenses/by-sa/4.0/
 
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
