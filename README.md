@@ -47,4 +47,11 @@ Tal com anticipava Manovich, el programari ja no acompanya la cultura: la dirige
 
 ----
 ### Referències
+https://mitpress.mit.edu/9780262632553/the-language-of-new-media/
+https://spark.meta.com/learn/
+https://developers.tiktok.com/
+
+
+
+
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
