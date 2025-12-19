@@ -27,5 +27,4 @@ Els filtres d’Instagram i la pàgina For You de TikTok exemplifiquen com el pr
 Tal com anticipava Manovich, el programari ja no acompanya la cultura: la dirigeix.
 
 Referències
-Commit message:
-Add PAC3 Monovich Reloaded essay
+
